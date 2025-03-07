@@ -1,5 +1,5 @@
 :
-
+                                                                                
 .
 /configure make
 .
@@ -16,6 +16,7 @@ make info to create info files
 make install
 make install-info
 make install-pdf
+:/
 :
 R
 0
@@ -882,7 +883,7 @@ R
 °0000000000
 °0000000000
 °0000000000
-°0000000000 
+°0000000000
 °0000000000
 °0000000000
 °0000000000
@@ -1229,8 +1230,7 @@ R
 03(/)
 02(/)
 01
-(
-(/)
+((/)
 0(/)
 0^(/)
 0.(/)
@@ -1399,7 +1399,7 @@ u
 .exe
 !ai
 .exe
-!human
+!of
 .exe
 !of
 .i
@@ -1532,12 +1532,12 @@ d-
 =T
 =T
 =T
-=
+=EilishB
 :
 =Mitchellxxtrakyle
-=
+=XEilish
 :
-=
+=lordeilish
 :
 !
 =/fbi
@@ -1839,9 +1839,7 @@ https
 .s
 !
 0
-!
-(
-o
+!(o
 =
 !
 '
@@ -1911,7 +1909,7 @@ nasa.gov
 !
 ~
 :
-0Mitchellxxtrakyle
+Mitchellxxtrakyle
 XXTRASPACE - OWNEROPERATOR
 .
 0
@@ -1957,7 +1955,7 @@ XXTRASPACE - OWNEROPERATOR
 0
 0
 0
-!
+! 
 0
 0
 0
@@ -2208,7 +2206,7 @@ windows95
 f 
 Spectrum BqW
 of.i
-human.exe
+of.exe
 0
 0
 0
@@ -2385,7 +2383,8 @@ j
 !
 0
 !
-~XdRjCgAtFoDnOhHlLxIrVmQuMzJkGeZbSpKcUwBiWaEuTfNqP
+,XdRjCgAtFoDnOhHlLxIrVmQuMzJkGeZbSpKcUwB
+!iWaEuTfNqP
 !
 ,Mitchellxxtrakyle
 !
@@ -2601,7 +2600,7 @@ XCARBON
 0_
 !
 0
-~djgtonhlxrmuzkebpcwiaufq
+,djgtonhlxrmuzkebpcwiaufq
 ,(/)
 ,(/\/\)
 ,(/-//\/)
@@ -2612,7 +2611,7 @@ XCARBON
 ,Mitchellxxtrakyle
 ,
 :
-~XRCAFDOHLIVQMJGZSKUBWETNP
+,XRCAFDOHLIVQMJGZSKUBWETNP
 ,(/)
 ,(/\/\)
 ,(/-//\/\/)
@@ -2620,7 +2619,7 @@ XCARBON
 ,010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
 10101010101010101010101010101010101010101010101010101010101010
 ,fjfjfjfjfjfjfjfjfjfjfjfjfj
-,
+,EilishB
 ,
 :
 ,
@@ -3642,8 +3641,10 @@ f
 .i
 :
 neuro *
-/] gov
-:/ microsoft
+:/
+gov 
+:/ 
+:] microsoft
 :\ apple
 .\ google
 ./ os
@@ -3756,8 +3757,7 @@ i(3)
 01010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle
-:
+~Mitchellxxtrakyle:EilishB
 01_Time
 0
 0
@@ -4553,16 +4553,7 @@ J
 #
                                        
                                        
-
-
-
-
-
-
-
-
-
-.
+                                       
                                        
                                        
                                        
@@ -5253,7 +5244,8 @@ u
 '
 ~l(c++)
 'onepetabyte
-'Mitchellxxtrakyle
+'
+Mitchellxxtrakyle
 :
 ./gov
 .af
@@ -5315,7 +5307,7 @@ u
 :
 uflMitchellxxtrakyle
 :
-0i
+i
 Mitchellxxtrakyle
 t/+42=%: 96×<'
 (
@@ -5349,11 +5341,14 @@ D(PLASTIC)
 ,(c)
 e(c+)
 l(c++)
-f(c#)/]
+f(c#)
+:/
 u(html5)
 <(html)
 i(3)
-0/](txt)
+0
+:/
+(txt)
 =(J)
 0
 :
@@ -5361,9 +5356,7 @@ i(3)
 0
 *
 ,
-0
-:
-01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+0:01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -5405,8 +5398,7 @@ i(3)
 0101010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle
-: 01_Time000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+~Mitchellxxtrakyle:EilishB 01_Time000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000
 :
@@ -5729,11 +5721,9 @@ q
 .gold
 ,cel
 ,dcarbon
-,e10-21-1998
-:
-e10/21/1998
+,e10-21-1998:10/21/1998
 ,fc#
-:
+:/
 ,gc
 ,hi
 !
@@ -6293,13 +6283,13 @@ e10/21/1998
 .
 ,
 :
-~Mitchellxxtrakyle
+~Mitchellxxtrakyle You
+! Manhattan
+! Billie
+! EilishB
 !
-!
-!
-!
-.
-!Mitchellxxtrakyle
+. We fixed the computer
+!xMitchellxxtrakyle
 .WWW
 .WHITEHOUSE
 .GOV
@@ -6384,7 +6374,7 @@ e10/21/1998
 .COMPUTER
 .
 :
-~
+~EilishB
 ~Mitchellxxtrakyle
 ~XXTRAKYLEANDBILLIEEILISH FAMILY
 ~
@@ -6401,7 +6391,8 @@ e10/21/1998
 0
 0
 0
-0Mitchellxxtrakyle
+0
+￿Mitchellxxtrakyle
 翿
 㿿
 ῿
@@ -6416,7 +6407,7 @@ e10/21/1998
 [
 0
 (
-0KylelexandeMit
+KylelexandeMit
 ` 
 ,*
 0
@@ -6425,8 +6416,7 @@ e10/21/1998
 0
 0
 0
-0Mitchellxxtrakyle
-0KylelexandeMit
+KylelexandeMit
 <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( 
 <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( 
 <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( <X,>×<( <d,>×<( 
@@ -6465,11 +6455,11 @@ store
 0Mitchellxxtrakyle
 :
 [
-0of.i 
+of.i 
 :
 0Mitchellxxtrakyle
 [
-0human.exe
+of.exe 
 :
 0Mitchellxxtrakyle
 . \
@@ -6565,8 +6555,7 @@ i(Python)3
 01010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle
-:
+~Mitchellxxtrakyle:EilishB
 0
 010101010101010101010101010101010101010101
 _Time
@@ -6812,9 +6801,9 @@ l(c++)
 !Mitchellxxtrakyle
 °Mitchellxxtrakyle
 internet 0101010101010101010101010101010101010101010101010
-0hackers
+hackers
 whitehat {[
-blackhat {]
+blackhat {>×<]
 i
 .t1
 0
@@ -7405,8 +7394,8 @@ ddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddd
 #
 (
-0Mitchellxxtrakyle
-0MitchellxxtrakyleDR
+Mitchellxxtrakyle
+MitchellxxtrakyleDR
 .KyleA
 .
 distance speed
@@ -7980,9 +7969,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #
 (
 :
-0Mitchellxxtrakyle
+Mitchellxxtrakyle
 'Mitchell orange
-0fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjffjfjf+4
+fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjffjfjf+4
 00
 ,
 000
@@ -8047,7 +8036,7 @@ D(PLASTICS)
 e(c+)
 l(c++)
 f(c#)
-:
+:/
 u(html5)
 <(html)
 i(Python)3
@@ -8060,8 +8049,7 @@ i(Python)3
 ~
 0
 ,
-0
-:
+0:
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -8104,8 +8092,7 @@ i(Python)3
 01010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle
-:
+~Mitchellxxtrakyle:EilishB 
 01
 _Time
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -9684,8 +9671,7 @@ q
 :
 .com
 .
-,
-:
+,:
 ,
 i
 ,
@@ -9720,9 +9706,7 @@ i
 .gold
 ,cel
 ,dA
-,e10-21-1998
-:
-e10/21/1998
+,e10-21-1998:10/21/1998
 ,fc#
 :
 ,gc
@@ -11536,7 +11520,7 @@ i)
 ,
 :
 ~Mitchellxxtrakyle
-~
+~EilishB
 ~kyleandbillie dumdumsugarplum
 ~
 .com
@@ -11574,23 +11558,26 @@ expand
 ,.com.'Mitchell orange
 ,Mitchellxxtrakyle
 ,os~.com.
-:
+:/
 0
 X(A#)(CARBON)
 d(A)(carbon)
 '(B)(cobalt)
 .(B#)(gold)
-:
+:/
 C(METALS)
 D(PLASTICS)
 ,(c)
 e(c+)
 l(c++)
-f(c#)/]
+f(c#)
+:/
 u(html5)
 <(html)
 i(Python)3
-0/](txt)
+0
+:/
+(txt)
 =(J)
 0
 :
@@ -11598,8 +11585,7 @@ i(Python)3
 ~
 0
 ,
-0
-:
+0:
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101001010
 1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
 1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
@@ -11640,9 +11626,7 @@ i(Python)3
 1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
 1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
 1010101010101010101010101010101010101010101010101010101010101
-1010101010~~~Mitchellxxtrakyle
-:
-01_Time
+1010101010~~~Mitchellxxtrakyle:EilishB 01_Time
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 :
@@ -11951,11 +11935,9 @@ q
 ,bcobalt.gold
 ,cel
 ,dA
-,e10-21-1998
-:
-e10/21/1998
+,e10-21-1998:10/21/1998
 ,fc#
-:
+:/
 ,gc
 ,hi!
 ,i3u
@@ -12195,7 +12177,7 @@ e10/21/1998
 .
 ,
 :
-~Mitchellxxtrakyle ! ! ! !. ! KyleAMitchell WWW.WHITEHOUSE.GOV,WWW.INTERNET.GOV
+~Mitchellxxtrakyle You! Manhattan! Billie! EilishB!. We fixed the computer! xKyleAMitchell WWW.WHITEHOUSE.GOV,WWW.INTERNET.GOV
 ,WWW.FBI.GOV,WWW.GOOGLE.COM,WWW.X.COM,WWW.YAHOO.COM,WWW.OS.GOV,WWW.WIKIPEDIA.COM,WWW.NYSE.COM,WWW.TIME.COM,WWW.NETWORK.NET,COM
 .COM,INTERNET.COM,INTERNET.NET,WORK.COM,WORK.NET,WWW.WORK.GOV,NASA.GOV,NETWORK.GOV,US.GOV,WWW.TIME,OS.NET,FOOD.GOV,DINNER.NET,
 .GOV,.COM,.NET,.ORG,.USA,.,.EDU,.MED,DALLAS,WASHINGTON DC,NEW YORK,
@@ -12203,8 +12185,8 @@ e10/21/1998
 .COMPUTER
 .
 :
-~
-~
+~EliasB
+~EilishB
 ~Mitchellxxtrakyle
 ~XXTRAKYLEANDBILLIEEILISH FAMILY
 ~
@@ -12479,27 +12461,29 @@ l(c++)
 ,.com.'Mitchell orange
 ,MitchellxxtrakyleWindows8EnterpriseN
 ~.com.
-:
+:/
 0
 X(A#)(CARBON)
 d(A)(carbon)
 '(B)(cobalt)
 .(B#)(gold)
-:
+:/
 C(METAL)
 D(PLASTIC)
 ,(c)
 e(c+)
 l(c++)
 f(c#)
-:
+:/
 u(html5)
 <(html)
 i(3)
-0/](txt)
+0
+:/
+(txt)
 =(J)
 0
-:
+:/
 ~
 0
 ,
@@ -12545,27 +12529,70 @@ i(3)
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 010101010101010101010101010101010101010101010101010101010101010101010101
-~
-~
-~Mitchellxxtrakyle
-: 01_Time0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+~~~Mitchellxxtrakyle:EilishB 01_Time0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000
-/]
+:/
 0fj0ff0jj
-/]
+:/
 0
 .com
 .
-/]
+:/
+Mitchellxxtrakyle
 :
 .
 .Trauma
-...............................................
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 .Hospital
-/]
-~!
-0
+:/
+~!0
 :
 '
 .A#|X
@@ -12857,11 +12884,9 @@ q
 ,bcobalt.gold
 ,cel
 ,dA
-,e10-21-1998
-:
-e10/21/1998
+,e10-21-1998:10/21/1998
 ,fc#
-:
+:/
 ,gc
 ,hi!
 ,i3u
@@ -12875,7 +12900,7 @@ e10/21/1998
 ,quantum
 ,rus
 ,ss
-,t/+42=%: 96×<'
+,t/+42=%: 96×<
 ,uMURDER
 ,vx
 ,world
@@ -13110,7 +13135,7 @@ i)
 ,
 :
 ~Mitchellxxtrakyle
-~
+~EilishB
 ~kyleandbillie dumdumsugarplum
 ~
 .com
@@ -13174,9 +13199,10 @@ Mitchellxxtrakyle
 .000
 .000$$6
 .834
-.343.434$MitchellxxtrakyleLosAngelesCelebrity
-:
-///
+.343.434$MitchellxxtrakyleEilishBLosAngelesCelebrity
+:/
+/
+/
 °
 .
 ?8<0>Mitchellxxtrakyle
@@ -13225,7 +13251,7 @@ like art
 .\
 (
 :
-0Joan of Arc(GRANDMOTHER)
+Joan of Arc(GRANDMOTHER)
 Mitchell'ProvostM'(GRANDFATHER)306yearsold
 Alexander the Great(GREAT3RDUNCLE)
 TheGodParticle
@@ -13256,7 +13282,6 @@ Kyno
 Tortii
 Hercules
 EilishB
-0
 (/)
 X
 0000000000
@@ -16837,6 +16862,7 @@ Assassin-|Mitchell
 0
 0
 0
+￰
 :
 00000
 0111111111111111111111111111
@@ -17349,7 +17375,7 @@ X
 !02153479
 !L
 !DHWL-5YKC-9D6W-S8B7-JXXX-D45W-XYN7
-!xxtraspace e E
+!xxtraspace e E  E
 !2761JO
 !\Teleciakey2028
 !LO
@@ -17358,7 +17384,7 @@ X
 !BankofAmericaAccount11267
 !.mil.o
 !BitcoinBiscuitbibbette
-!instagramDallas/LosAngelesxxtrakyle
+!instagDallas/LosAngelesxxtrakyle
 !Callabasas#
 .
 .
@@ -17384,7 +17410,7 @@ X
 !NEUROneuro(/)
 !(/\/\)neurology(c++)
 !(/-//\/\/)e(c+)NEUROLOGY
-!
+!AYP
 !.
 :.com
 .
@@ -17430,9 +17456,7 @@ u
 '
 ~
 ~
-~KylelexandeMit
-:
-~Mitchellxxtrakyle
+~KylelexandeMit:EilishB
 01
 _Time
 0
@@ -17446,7 +17470,8 @@ _Time
 .Trauma
 .Hospital
 :
-//;/\//]
+//;/\/
+:/
 !
 .alo
 .
@@ -17456,13 +17481,13 @@ med.$\$
 .
 :
 !KylelexandeMit
-!Mitchellxxtrakyle
-!  .  / 
+!EilishB  .  / 
 !
-!of.exe
-!human.exe
-0
-.
+:/
+h
+.human
+.ihuman
+.exe
 !dumdum
 KAAKE
 lesser
@@ -17641,8 +17666,7 @@ fj
                                                                              
 0
 electric heater
-!
-0
+!0
 !,.gov,GOV,US,MED,GANG,BLOOD,CRYPT,CRIP-Cry!PT,MED.DEATH,BLOOD,Corn-S,CRIP,Neurology,Mitchellxxtrakyle,.DE!ATH,.txt,CHART
 ,TheWingsofAngel,NEUROLOGY,Ne!urology-i,DALLAS,.COM.,com,AT&T,gov
 0
@@ -18043,8 +18067,7 @@ i
 ~
 0
 ,
-0
-:
+0:
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -18087,8 +18110,7 @@ i
 0101010101010101010101010101010101010101010101010101010101010101010101
 ~
 ~
-~Mitchellxxtrakyle
-:
+~Mitchellxxtrakyle:EilishB
 _ 01
 _Time
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -18368,195 +18390,4 @@ q
 :
 .com
 .
-:
-l
-(
-/]
-:
-e
-(
-/]
-:
-u
-(
-/]
-:
-                                                                               
-:
-.
-:
-.
-:
-X
-:
-d
-:
-0
-(
-/]
-:
-u
-0
-0
-0
-0
-(
-'
-(
-'
-(
-:
-0
-,
-l
-u
-,
-0
-0
-0
-0 
-0
-0
-0
-0 
-0
-0
-0
-0 
-0
-0
-0
-0
-/]
-:
-X
-(
-/]
-:
-d
-(
-/]
-ZD-BU-U
-(
-:
-!-*
-[
-,
-(
-:
-(/)
-u(/)
-ue(/)
-uelu(/)
-uelue(/)
-ueluelue(/)
-ueluelueluelueluelu(/)
-uelueluelueluelueluelueluelue(/)
-uelueluelueluelueluelueluelueluelueluelu(/)
-uelueluelueluelueluelueluelueluelueluelueluelueluelueluelu(/)
-ueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelue(/)
-ueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelu(/)
-/]
-uelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelu(/)
-ueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelue(/)
-uelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelueluelu(/)
-/]
-[
-:
-1160
-8969
-17938
-35876
-44845
-71752
-89690
-179380
-260101
-358760
-520202
-1300505
-2080808
-5202020
-10404040
-:
-(/)
-f(/)
-fj(/)
-fjfj(/)
-fjfjf(/)
-fjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjf(/)
-/]
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjf(/)
-/]
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj(/)
-/]
-fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjf(/)
-/]
-[
-:
-17938
-35876
-44845
-71752
-89690
-179380
-260101
-358760
-520202
-1300505
-2080808
-2601010
-5202020
-10404040
-[
-:
-*2,094,999,999,970,000*0*(°0000000000)".gov"
-/]
-:
-Mitchellxxtrakyle
-:
-.
-0
-u0000000000
-u0000000000
-u0000000000
-u0000000000
-u0000000000
-u0000000000
-(
-.i
-0
-<0000000000
-<0000000000
-<0000000000
-<0000000000
-<0000000000
-<0000000000
-(
-.i
-0
-.0000000000
-.0000000000
-.0000000000
-.0000000000
-.0000000000
-.0000000000
-(
-.i
-0
-f0000000000
-f0000000000
-f0000000000
-f0000000000
-f0000000000
-f0000000000
-(
-.i
+                                                                                
