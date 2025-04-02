@@ -1875,7 +1875,7 @@ nasa.gov
 .edu/
 !nyc
 .gov
-!https
+ !https
 :
 //www
 .nyc
@@ -1907,7 +1907,7 @@ nasa.gov
 ~
 :
 !
-~
+ ~
 :
 Mitchellxxtrakyle
 XXTRASPACE - OWNEROPERATOR
@@ -2126,7 +2126,7 @@ yeah
 0
 !
 u
-internet 0
+ internet 0
 !
 0f
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
@@ -2187,7 +2187,7 @@ fdo
 !
 0Popular
 !
-0KyleAMitchell
+0KyleAMitchell1
 !
 0Mitchellxxtrakyle
 .
@@ -3757,7 +3757,7 @@ i(3)
 01010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle:KylelexanderMit
+ ~Mitchellxxtrakyle:KylelexanderMit:KyleAlexanderMitchell1
 01_Time
 0
 0
@@ -4165,6 +4165,7 @@ A|d
 /  
 `fjfjffjfjfjfjfjfjfj
 :
+ ,KyleAlexanderMitchell1
 0Mitchellxxtrakyle
 0
 !
@@ -5398,7 +5399,7 @@ i(3)
 0101010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle:KylelexanderMit 01_Time000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+ ~Mitchellxxtrakyle:KylelexanderMit:KyleAlexanderMitchell1 01_Time000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000
 :
@@ -5501,7 +5502,7 @@ X'
 0101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010  /  
 .fjfjffjfjfjfjfjfjfj
-:
+ :KyleAlexanderMitchell1
 .Mitchellxxtrakyle
 0
 !
@@ -5676,7 +5677,7 @@ q
 0000000000
 0000000000
 /-/
-:
+ :KyleAlexanderMitchell1
 .com
 .
 ,:
@@ -6555,7 +6556,7 @@ i(Python)3
 01010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle:KylelexanderMit
+~Mitchellxxtrakyle:KylelexanderMit:KyleAlexanderMitchell1
 0
 010101010101010101010101010101010101010101
 _Time
@@ -6800,7 +6801,8 @@ l(c++)
 ,Mitchellxxtrakyle
 !Mitchellxxtrakyle
 °Mitchellxxtrakyle
-internet 0101010101010101010101010101010101010101010101010
+ internet 0
+ ,e 0
 hackers
 whitehat {[
 blackhat {>×<]
@@ -7394,6 +7396,7 @@ ddddddddddddddddddddddddddddddddddddddd
 ddddddddddddddddddddddddddddddddddddddd
 #
 (
+ ,KyleAlexanderMitchell1
 Mitchellxxtrakyle
 MitchellxxtrakyleDR
 .KyleA
@@ -7971,6 +7974,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 :
 Mitchellxxtrakyle
 'Mitchell orange
+ mitchell orangutan
 fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjffjfjf+4
 00
 ,
@@ -8092,7 +8096,7 @@ i(Python)3
 01010101010101010101010101010101010101010101010101010101010101010101010
 ~
 ~
-~Mitchellxxtrakyle:KylelexanderMit 
+~Mitchellxxtrakyle:KylelexanderMit:KyleAlexanderMitchell1 
 01
 _Time
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -8198,6 +8202,7 @@ d
 01010101010101010101010101010101010101010101010101010101010101010101010  /  
 .fjfj
 .ffjfjfjfjfjfjfj
+ .KyleAlexanderMitchell1
 :
 0Mitchellxxtrakyle
 !
@@ -9717,6 +9722,7 @@ i
 ,lear
 ,my
 ,neuroMitchellxxtrakyle
+ ,KyleAlexanderMitchell1
 ,o\¯—
 ,po
 ,quantum
@@ -11519,6 +11525,7 @@ i)
 .
 ,
 :
+ ~KyleAlexanderMitchell1
 ~Mitchellxxtrakyle
 ~KylelexanderMit
 ~kyleandbillie dumdumsugarplum
@@ -11626,7 +11633,7 @@ i(Python)3
 1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
 1010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010
 1010101010101010101010101010101010101010101010101010101010101
-1010101010~~~Mitchellxxtrakyle:KylelexanderMit 01_Time
+1010101010~~~Mitchellxxtrakyle:KylelexanderMit:KyleAlexanderMitchell1 01_Time
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 :
@@ -11946,6 +11953,7 @@ q
 ,lear
 ,my
 ,neuroMitchellxxtrakyle
+,KyleAlexanderMitchell1
 ,o\¯—
 ,po
 ,quantum
@@ -12538,8 +12546,9 @@ i(3)
 0
 .com
 .
-:/
+ :/
 Mitchellxxtrakyle
+ KyleA.Mitchell
 :
 .
 .Trauma
@@ -13458,7 +13467,7 @@ P
 0000000000
 0000000000
 e(/-//\/\/)fjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfjfj
-0KyleAMitchell
+0KyleA.Mitchell
 0Mitchellxxtrakyle
 !f>08?
 <>>>>>
@@ -22489,7 +22498,7 @@ iq1000000000000	 	weapon laser
  0.time	0_Time	0earth	01	01	
  . time earth 1	
  .	
- /]01	
+ :]01	
 (	0|	
  e	
  . time earth 1	
@@ -22871,7 +22880,7 @@ neuro *  /  *
 , :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	 :/	, :/	.	
  .spacebar expand
 spacebar.spacebar .	
-, /]KyleAlexanderMitchell1	
+, :]KyleAlexanderMitchell1	
 , ./KyleAlexanderMitchell1	
 , .\KyleAlexanderMitchell1	
 , :/|@	 ://@	 :/|@.	 ://@.	
